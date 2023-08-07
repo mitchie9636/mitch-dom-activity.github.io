@@ -1,0 +1,28 @@
+/* Header Section */
+#main-header .container {
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    border: solid #333 1px;
+    background: #4147BE;
+    border-radius: 5px;
+    }
+
+    
+    
+  /* End Header Section */
+
+.card {
+    padding: 10px;
+    margin-top: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 5, 8);
+    border: solid #333 1px;
+    background: #676CCB;
+    border-radius: 5px;
+}
+
+
+
